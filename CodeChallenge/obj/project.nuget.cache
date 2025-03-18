@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qh5BNirLVrs=",
+  "dgSpecHash": "4lWK+Y4JSJs=",
   "success": true,
-  "projectFilePath": "C:\\Users\\DkalM\\Desktop\\Mindex\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
+  "projectFilePath": "C:\\Users\\DkalM\\Desktop\\Mindex\\mindex-dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\DkalM\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.5\\microsoft.aspnetcore.jsonpatch.6.0.5.nupkg.sha512",
     "C:\\Users\\DkalM\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

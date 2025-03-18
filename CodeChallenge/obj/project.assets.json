@@ -766,11 +766,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\DkalM\\Desktop\\Mindex\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
+      "projectUniqueName": "C:\\Users\\DkalM\\Desktop\\Mindex\\mindex-dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
       "projectName": "CodeChallenge",
-      "projectPath": "C:\\Users\\DkalM\\Desktop\\Mindex\\dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
+      "projectPath": "C:\\Users\\DkalM\\Desktop\\Mindex\\mindex-dotnet-code-challenge\\CodeChallenge\\CodeChallenge.csproj",
       "packagesPath": "C:\\Users\\DkalM\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\DkalM\\Desktop\\Mindex\\dotnet-code-challenge\\CodeChallenge\\obj\\",
+      "outputPath": "C:\\Users\\DkalM\\Desktop\\Mindex\\mindex-dotnet-code-challenge\\CodeChallenge\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DkalM\\AppData\\Roaming\\NuGet\\NuGet.Config",

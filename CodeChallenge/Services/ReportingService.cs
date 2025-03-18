@@ -24,6 +24,9 @@ namespace CodeChallenge.Services
             {
                 var employee = _employeeService.GetById(id);
 
+                // Error Handling: Checks if the employee exists before attempting calculation. 
+                if (employee == null) return null;
+
                 // Seperated the logic below to be able to use the function recursively.
                 int totalReporting = CalculateReporting(employee.DirectReports);
 
