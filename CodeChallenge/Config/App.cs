@@ -43,6 +43,7 @@ namespace CodeChallenge.Config
         {
 
             services.AddScoped<IEmployeeService, EmployeeService>();
+            services.AddScoped<IReportingService, ReportingService>();
             services.AddScoped<IEmployeeRepository, EmployeeRespository>();
 
             services.AddControllers();
